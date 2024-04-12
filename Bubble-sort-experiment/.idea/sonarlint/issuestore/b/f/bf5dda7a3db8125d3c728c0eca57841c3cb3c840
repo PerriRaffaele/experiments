@@ -1,0 +1,19 @@
+
+³
+java:S1598"•This file "IntegerArrayGenerator.java" should be located in "exp01" directory, not in "/home/giorgio/Desktop/Experimentation and Evaluation/project".(¢Ç©È8êÅê¼1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢Ç©È8êÅê¼1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8¸ğÄê¼1
+>	java:S131""Add a default case to this switch.(èÒÖá8ÀğÄê¼1
+C
+java:S1168"&Return an empty array instead of null.(¥¹ï8ÅğÄê¼1
+:
+java:S2119!"Save and re-use this "Random".(¼İÅf8öŠÅê¼1
+:
+java:S2119E"Save and re-use this "Random".(¼İÅf8úŠÅê¼1
+:
+java:S2119W"Save and re-use this "Random".(¼İÅf8ıŠÅê¼1
+D
+java:S1659j""Declare "temp" on a separate line.( éÀ·øÿÿÿÿ8ÑğÄê¼1
+F
+java:S2140l")Use "java.util.Random.nextInt()" instead.(ƒæŠ8ÑğÄê¼1

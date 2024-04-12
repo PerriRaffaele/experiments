@@ -1,0 +1,43 @@
+
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±¹€úÿÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–‡³šúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(…»ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š•°©øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï›Ìşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×®Îš
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Á®‰ú
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(¶µ¦Ï
+_
+java:S6201@"DReplace this instanceof check and cast with 'instanceof int[] int[]'(ĞØ†óûÿÿÿÿ
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(£¾ó 
+e
+java:S6201B"JReplace this instanceof check and cast with 'instanceof String[] string[]'(ÕğüÛùÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ë¹‹âøÿÿÿÿ
+e
+java:S6201D"JReplace this instanceof check and cast with 'instanceof double[] double[]'(­çºÀşÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(„€´šûÿÿÿÿ
+^
+java:S6201F"HReplace this instanceof check and cast with 'instanceof float[] float[]'(ˆ—ê
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(Ÿª”äıÿÿÿÿ
+\
+java:S6201H"FReplace this instanceof check and cast with 'instanceof char[] char[]'(¼õùë
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ƒÚù»
+b
+java:S6201J"LReplace this instanceof check and cast with 'instanceof Integer[] integer[]'(Äšèñ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(êœœ¦ıÿÿÿÿ
+\
+java:S6201L"FReplace this instanceof check and cast with 'instanceof byte[] byte[]'(ñ‹Ñ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(Ù×·´ıÿÿÿÿ
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(ˆÛÖ
+7	java:S131U""Add a default case to this switch.(º©•¸
+7	java:S131o""Add a default case to this switch.(ÜŸ•

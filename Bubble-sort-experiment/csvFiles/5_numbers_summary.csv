@@ -1,0 +1,127 @@
+    ALGORITHM ELEMENT ARRAY TYPE  ARRAY ORDER       min        Q1     Median         Q3        max &
+  PassPerItem               Byte   duplicates 3646238.0 3756575.0  3808821.0  3867342.0  8357071.0 &
+  PassPerItem               Byte        equal 2935979.0 3019169.0  3087391.0  3157950.0  5288457.0 &
+  PassPerItem               Byte noDuplicates 3788220.0 3856847.0  3898842.0  3977115.0  6742442.0 &
+  PassPerItem               Byte   partSorted 3727686.0 3882174.0  4527043.0  4614871.0  7998889.0 &
+  PassPerItem               Byte       random 4060434.0 4570201.0  4614511.0  4728887.0  8119986.0 &
+  PassPerItem               Byte      reverse 3954729.0 4323938.0  4357431.0  4433003.0  6930753.0 &
+  PassPerItem               Byte       sorted 3598158.0 3656735.0  3709855.0  3907112.0  6766076.0 &
+  PassPerItem          Character   duplicates 3740947.0 3846082.0  3887237.0  3954177.0  5698293.0 &
+  PassPerItem          Character        equal 2893077.0 3569756.0  3615591.0  3720252.0  6190770.0 &
+  PassPerItem          Character noDuplicates 3598108.0 3842692.0  3889248.0  3961125.0  5906079.0 &
+  PassPerItem          Character   partSorted 3390725.0 3533691.0  3596476.0  3645536.0  6174360.0 &
+  PassPerItem          Character       random 3792844.0 3858078.0  3991903.0  4112282.0  7165440.0 &
+  PassPerItem          Character      reverse 3928958.0 4074894.0  4199993.0  4795254.0  6346055.0 &
+  PassPerItem          Character       sorted 3413329.0 3592020.0  3629016.0  3737123.0  6490337.0 &
+  PassPerItem             Double   duplicates 3891059.0 4564416.0  4708132.0  4800219.0  7886275.0 &
+  PassPerItem             Double        equal 4291813.0 4516993.0  4562359.0  4681925.0  7910216.0 &
+  PassPerItem             Double noDuplicates 3873884.0 4000343.0  4045788.0  4152261.0  6001258.0 &
+  PassPerItem             Double   partSorted 3655190.0 4378000.0  4419958.0  4468273.0  7704964.0 &
+  PassPerItem             Double       random 3761499.0 3938283.0  4008754.0  4116739.0  6340284.0 &
+  PassPerItem             Double      reverse 4016233.0 4189450.0  4243337.0  4314153.0  5774845.0 &
+  PassPerItem             Double       sorted 2994578.0 3128397.0  3151628.0  3215041.0  5658673.0 &
+  PassPerItem            Integer   duplicates 3463755.0 3540117.0  3598020.0  3676245.0  4797625.0 &
+  PassPerItem            Integer        equal 2577646.0 2748983.0  2819274.0  2884196.0  4147536.0 &
+  PassPerItem            Integer noDuplicates 3122117.0 3297333.0  3348221.0  3437558.0  5077096.0 &
+  PassPerItem            Integer   partSorted 2919993.0 3014345.0  3079822.0  3166664.0  4806705.0 &
+  PassPerItem            Integer       random 4274735.0 4441081.0  4497042.0  4597413.0  6427093.0 &
+  PassPerItem            Integer      reverse 3329975.0 3487040.0  3553294.0  3642864.0  6333695.0 &
+  PassPerItem            Integer       sorted 2591549.0 3073455.0  3243781.0  3312198.0  5477617.0 &
+  PassPerItem             String   duplicates 6633237.0 8086784.0  8239239.0  8544916.0 12653117.0 &
+  PassPerItem             String        equal 2949728.0 3155401.0  3213564.0  3304831.0  5930131.0 &
+  PassPerItem             String noDuplicates 9318118.0 9533921.0 10487439.0 11103731.0 14899991.0 &
+  PassPerItem             String   partSorted 8450381.0 8746620.0  8870049.0 10176884.0 13913313.0 &
+  PassPerItem             String       random 6499265.0 6923228.0  7118070.0  8018541.0 12726856.0 &
+  PassPerItem             String      reverse 7797864.0 7985778.0  8115074.0  8398284.0 10895706.0 &
+  PassPerItem             String       sorted 8640260.0 8914419.0  9091600.0  9290393.0 12106259.0 &
+  PassPerItem                int   duplicates 3343333.0 3482982.0  3533921.0  3596568.0  5805610.0 &
+  PassPerItem                int        equal 2580467.0 2763506.0  2829700.0  2927601.0  4829911.0 &
+  PassPerItem                int noDuplicates 3118135.0 3272580.0  3329326.0  3447653.0  5547094.0 &
+  PassPerItem                int   partSorted 3297450.0 3597617.0  3640150.0  3727489.0  5580725.0 &
+  PassPerItem                int       random 5144896.0 5269400.0  5344085.0  5457277.0  7180828.0 &
+  PassPerItem                int      reverse 3331252.0 3462131.0  3529574.0  3639483.0  5709480.0 &
+  PassPerItem                int       sorted 2903662.0 3225032.0  3281266.0  3346823.0  5589207.0 &
+UntilNoChange               Byte   duplicates 5215359.0 5426623.0  5498350.0  5635537.0  8687405.0 &
+UntilNoChange               Byte        equal    5001.0    5370.0     5719.0     8353.0    25859.0 &
+UntilNoChange               Byte noDuplicates 5592581.0 5881570.0  5975926.0  6068955.0  8525470.0 &
+UntilNoChange               Byte   partSorted 5356346.0 5764532.0  6484797.0  6787677.0 11309064.0 &
+UntilNoChange               Byte       random 6314645.0 7014826.0  7111694.0  7281527.0 12352740.0 &
+UntilNoChange               Byte      reverse 5386158.0 5838850.0  5880371.0  5968197.0  8837784.0 &
+UntilNoChange               Byte       sorted 4973581.0 5049731.0  5154270.0  5418453.0  9501319.0 &
+UntilNoChange          Character   duplicates 5380184.0 5718432.0  5805834.0  5888586.0  9927778.0 &
+UntilNoChange          Character        equal    4984.0    6207.0     6542.0     9635.0    25899.0 &
+UntilNoChange          Character noDuplicates 5525239.0 5716642.0  5804618.0  5901497.0  9412445.0 &
+UntilNoChange          Character   partSorted 5040773.0 5401725.0  5513847.0  5647164.0  8130289.0 &
+UntilNoChange          Character       random 5516999.0 5787208.0  5893001.0  6095069.0  9401375.0 &
+UntilNoChange          Character      reverse 5796250.0 5916038.0  6073921.0  6941697.0  8287703.0 &
+UntilNoChange          Character       sorted    6000.0    6378.0     6676.0     9595.0    15193.0 &
+UntilNoChange             Double   duplicates 4202655.0 5189774.0  5401865.0  5525006.0  7689250.0 &
+UntilNoChange             Double        equal    4859.0    5410.0     5645.0     5977.0    22616.0 &
+UntilNoChange             Double noDuplicates 4376720.0 4553075.0  4626721.0  4732249.0  7538549.0 &
+UntilNoChange             Double   partSorted 3984865.0 4880262.0  4976631.0  5105775.0  8221830.0 &
+UntilNoChange             Double       random 4239250.0 4509314.0  4604403.0  4736491.0  7325297.0 &
+UntilNoChange             Double      reverse 4700677.0 4821353.0  4867876.0  4974744.0  6470144.0 &
+UntilNoChange             Double       sorted    3824.0    4270.0     4774.0     6409.0    26539.0 &
+UntilNoChange            Integer   duplicates 2500193.0 2680410.0  2740821.0  2833826.0  4790417.0 &
+UntilNoChange            Integer        equal    1921.0    2155.0     2502.0     3209.0    23405.0 &
+UntilNoChange            Integer noDuplicates 2409786.0 2518111.0  2586739.0  2699469.0  4524521.0 &
+UntilNoChange            Integer   partSorted 2062780.0 2225946.0  2293881.0  2380345.0  4146141.0 &
+UntilNoChange            Integer       random 3820289.0 4092529.0  4169135.0  4229902.0  6172818.0 &
+UntilNoChange            Integer      reverse 2758603.0 2841655.0  2913743.0  3008567.0  5233527.0 &
+UntilNoChange            Integer       sorted    1979.0    2505.0     2908.0     3758.0    31383.0 &
+UntilNoChange             String   duplicates 6416213.0 8015924.0  8253134.0  8469550.0 12367124.0 &
+UntilNoChange             String        equal    3268.0    3645.0     4342.0     5790.0    19151.0 &
+UntilNoChange             String noDuplicates 9170059.0 9822109.0 10284872.0 11499502.0 15254867.0 &
+UntilNoChange             String   partSorted 8258231.0 8918542.0  9123824.0 10404024.0 15786142.0 &
+UntilNoChange             String       random 6660782.0 6911349.0  7147949.0  7921691.0 11900423.0 &
+UntilNoChange             String      reverse 8010615.0 8177631.0  8286995.0  8522808.0 13240213.0 &
+UntilNoChange             String       sorted  896517.0  958599.0   990992.0  1048618.0  1668638.0 &
+UntilNoChange                int   duplicates 2502082.0 2618653.0  2672308.0  2755727.0  3633136.0 &
+UntilNoChange                int        equal    1944.0    2200.0     2443.0     3116.0     5192.0 &
+UntilNoChange                int noDuplicates 2384768.0 2522486.0  2591091.0  2695739.0  4702782.0 &
+UntilNoChange                int   partSorted 2398022.0 2634232.0  2694768.0  2778662.0  4822703.0 &
+UntilNoChange                int       random 4629902.0 4818649.0  4905973.0  5044764.0  7465709.0 &
+UntilNoChange                int      reverse 2712334.0 2821741.0  2881678.0  2954795.0  4803311.0 &
+UntilNoChange                int       sorted    2364.0    2586.0     2801.0     3281.0     5411.0 &
+  WhileNeeded               Byte   duplicates 3554805.0 3647981.0  3705361.0  3808088.0  5570046.0 &
+  WhileNeeded               Byte        equal    4857.0    4981.0     7658.0     8267.0    24460.0 &
+  WhileNeeded               Byte noDuplicates 3691380.0 3782508.0  3834119.0  3906792.0  6222995.0 &
+  WhileNeeded               Byte   partSorted 3485835.0 3587534.0  4159977.0  4244896.0  7967867.0 &
+  WhileNeeded               Byte       random 3978520.0 4449542.0  4498133.0  4587372.0  6938977.0 &
+  WhileNeeded               Byte      reverse 3144353.0 3367681.0  3391539.0  3468161.0  5867272.0 &
+  WhileNeeded               Byte       sorted 2929197.0 2991186.0  3059666.0  3263906.0  4934011.0 &
+  WhileNeeded          Character   duplicates 3505261.0 3616613.0  3655093.0  3729796.0  6001368.0 &
+  WhileNeeded          Character        equal    4936.0    5943.0     8540.0     9792.0    33465.0 &
+  WhileNeeded          Character noDuplicates 3477688.0 3615958.0  3664275.0  3756953.0  5556636.0 &
+  WhileNeeded          Character   partSorted 3028176.0 3138755.0  3191658.0  3252115.0  5422040.0 &
+  WhileNeeded          Character       random 3454506.0 3592135.0  3652573.0  3763977.0  6246366.0 &
+  WhileNeeded          Character      reverse 3457301.0 3565772.0  3691675.0  4169464.0  5203627.0 &
+  WhileNeeded          Character       sorted    5743.0    6019.0     6171.0     9616.0    11633.0 &
+  WhileNeeded             Double   duplicates 2654100.0 3200206.0  3249071.0  3332622.0  4823338.0 &
+  WhileNeeded             Double        equal    4617.0    5168.0     6827.0     7893.0    36000.0 &
+  WhileNeeded             Double noDuplicates 2648955.0 2736471.0  2780851.0  2854926.0  3940499.0 &
+  WhileNeeded             Double   partSorted 2384929.0 2831043.0  2879706.0  2929652.0  4445295.0 &
+  WhileNeeded             Double       random 2627232.0 2717131.0  2765478.0  2843572.0  4586852.0 &
+  WhileNeeded             Double      reverse 2856751.0 2936441.0  2975444.0  3069487.0  4633380.0 &
+  WhileNeeded             Double       sorted    3562.0    3824.0     4089.0     6436.0    33992.0 &
+  WhileNeeded            Integer   duplicates 1816936.0 1885592.0  1918774.0  1971106.0  3196126.0 &
+  WhileNeeded            Integer        equal    1676.0    1815.0     2290.0     2932.0     3666.0 &
+  WhileNeeded            Integer noDuplicates 1615914.0 1670172.0  1713811.0  1814979.0  2960582.0 &
+  WhileNeeded            Integer   partSorted 1221295.0 1290361.0  1324990.0  1375905.0  2015366.0 &
+  WhileNeeded            Integer       random 2738700.0 2865570.0  2897588.0  2996808.0  4154920.0 &
+  WhileNeeded            Integer      reverse 2071300.0 2170567.0  2207418.0  2287419.0  3881794.0 &
+  WhileNeeded            Integer       sorted    1709.0    2096.0     2212.0     3311.0     4709.0 &
+  WhileNeeded             String   duplicates 4205590.0 5179006.0  5260552.0  5377807.0  6850935.0 &
+  WhileNeeded             String        equal    3486.0    3829.0     5668.0     6879.0    34439.0 &
+  WhileNeeded             String noDuplicates 5934605.0 6150323.0  6596568.0  7151407.0  8550499.0 &
+  WhileNeeded             String   partSorted 5217055.0 5396484.0  5496800.0  6275181.0 11547706.0 &
+  WhileNeeded             String       random 4203543.0 4414065.0  4535138.0  5141019.0  7119076.0 &
+  WhileNeeded             String      reverse 4381985.0 4484555.0  4528680.0  4625965.0  7375641.0 &
+  WhileNeeded             String       sorted  502962.0  540318.0   566102.0   627231.0   928117.0 &
+  WhileNeeded                int   duplicates 1741590.0 1853781.0  1884699.0  1945793.0  3296010.0 &
+  WhileNeeded                int        equal    1632.0    1901.0     2471.0     2816.0    22645.0 &
+  WhileNeeded                int noDuplicates 1608437.0 1689313.0  1724352.0  1796194.0  2902586.0 &
+  WhileNeeded                int   partSorted 1384650.0 1530240.0  1568759.0  1625405.0  2734052.0 &
+  WhileNeeded                int       random 3222701.0 3360729.0  3391654.0  3486036.0  5055648.0 &
+  WhileNeeded                int      reverse 2059251.0 2154267.0  2199403.0  2271801.0  3904261.0 &
+  WhileNeeded                int       sorted    1941.0    2164.0     2261.0     3341.0     4968.0
